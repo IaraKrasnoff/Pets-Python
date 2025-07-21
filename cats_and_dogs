@@ -1,0 +1,13 @@
+"""
+* Understand that `Pet` is the parent class. `Cat` and `Dog` inherit from `Pet`, and implement the `Animal` interface, via `AnimalMixin`.
+* **Cat**
+  * Ensure the class [Cat](pkg/Cat.py) supports all methods of `Pet` construction, successfully completing each of the method stubs in the class [CatTest](CatTest.py).
+  * The mechanism by which a `Cat` speaks is by meowing; ensure a cat's `speak` method returns `meow` as a string.
+* **Dog**
+  * Ensure the class [Dog](pkg/Dog.py) supports all methods of `Pet` construction, successfully completing each of the method stubs in the class [DogTest](DogTest.py).
+  * Note that the mechanism by which a `Dog` speaks is by barking; ensure a dog's `speak` method returns `bark` as a string.
+
+"""
+## Cats and Dogs
+
+
